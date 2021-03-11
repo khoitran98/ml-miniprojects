@@ -1,1 +1,1 @@
-# ml-miniprojects
+training models for random datasets
